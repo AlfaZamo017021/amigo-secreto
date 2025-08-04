@@ -1,1 +1,1 @@
-para el desarrollo de este desafio aparte de usar lo visto en los cursos, tambien utilice diferentes herramientas como youtube y blackbox, debido a que habian partes donde no entendia muy bien que hacer o como implementarlas para que la pagina funcionara
+para el desarrollo de este desafio aparte de usar lo visto en los cursos, tambien utilice diferentes herramientas para poder desempenar de una mejor manera el desafio
